@@ -1,0 +1,37 @@
+{
+    "name": "twodudes/fxpay",
+    "type": "symfony-bundle",
+    "description": "Payment gateway",
+    "keywords": [""],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vasily Sokolov",
+            "email": "megawilddaddy@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "TwoDudes\\FXPay\\": ""
+        }
+    },
+    "target-dir": "TwoDudes/FXPay",
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type":"package",
+            "package": {
+                "version":"dev-master",
+                "name":"2Dudes-FXPay",
+                "source": {
+                    "url":"https://github.com/two-dudes/FXPay.git",
+                    "type":"git",
+                    "reference":"master"
+                }
+            }
+        }
+    ]
+}
