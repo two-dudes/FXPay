@@ -2,6 +2,14 @@
 
 Payment gateway designed with forex in mind. Currently work in progres...
 
+### Installation
+
+Installation with composer:
+
+```php
+composer require twodudes\fxpay
+```
+
 ### How does it work?
 
 The system consists of:
