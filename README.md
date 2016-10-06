@@ -22,7 +22,7 @@ ResponseValidator - validates the response, based on the merchants rules
 
 ResponseBuilder - builds the payment response object, containing information about the transaction, once you got the merchant notification from the vendors system
 
-For the workflow check the [TwoDudes\FXPay\HandlerStrategy\FormWithRedirectStrategy](../HandlerStrategy/FormWithRedirectStrategy.php)
+For the workflow check the [TwoDudes\FXPay\HandlerStrategy\FormWithRedirectStrategy](../master/HandlerStrategy/FormWithRedirectStrategy.php)
 
 
 ### I don't want to read, give me a sample
