@@ -2,7 +2,7 @@
     "name": "twodudes/fxpay",
     "type": "symfony-bundle",
     "description": "Payment gateway",
-    "keywords": [""],
+    "keywords": ["cardpay", "fasapay", "payment gateway", "forex"],
     "license": "MIT",
     "authors": [
         {
